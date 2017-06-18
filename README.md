@@ -1,5 +1,6 @@
 ## Classification of Cfar10 Dataset with Tensorflow
 
+Basic implementation to run classification on cfar10 dataset
 ### Instructions
 There are two ways to run the code
 - Run `python app.py -h` on command line to get usage instructions
